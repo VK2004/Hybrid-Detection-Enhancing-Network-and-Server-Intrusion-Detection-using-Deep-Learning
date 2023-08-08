@@ -11,8 +11,6 @@ This repository contains the sample code for the project "Hybrid Detection: Enha
 2. Hybrid Detection using XGB Classifier & MaxPooling 1D Modules
 3. Benchmark Results for different ML and DL Models
 
-#An Overview Presentation of the Project
-
 
 #Performance Metrics achieved by the Ensemble Model for Each Label
 
