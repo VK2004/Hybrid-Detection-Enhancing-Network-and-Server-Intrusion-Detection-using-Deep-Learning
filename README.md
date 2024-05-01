@@ -12,6 +12,7 @@ This repository contains the sample code for the project "Hybrid Detection: Enha
 3. Benchmark Results for different ML and DL Models
 
 |0 |BENIGN       |
+|--|-------------|
 |3 |DoS          |
 |6 |WebAttack    |  
 |1 |Bot          |   
